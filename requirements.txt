@@ -1,0 +1,1 @@
+numpy\nscipy\nopenai\nlangchain\ntorch\ntransformers\nfaiss-cpu\npydantic\nlibrosa\nmatplotlib\n
